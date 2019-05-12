@@ -1,0 +1,31 @@
+.jumbotron{
+  background-image: url('http://img.omdbapi.com/?i=tt0800369&h=1200&apikey=579b4fff');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+  background-position: 0 28%;
+  min-height: 20vh;
+}
+
+body{
+  background-color: black;
+}
+
+.card{
+
+  margin:10px;
+}
+.card img{
+  width:100%;
+  max-height:450px;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .card{
+
+  }
+  .card img{
+    width: 100%;
+  }
+}
