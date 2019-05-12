@@ -40,7 +40,7 @@
               $_SESSION['dbError'] = '';
             }?>
            <div class="form-group">
-             <label for="title">IMDB: </label>
+             <label for="imdb">IMDB: </label>
              <input id="imdb"type="text" name="imdb" size="50" >
            </div>
            <div class="form-group">

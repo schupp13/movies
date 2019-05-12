@@ -70,7 +70,7 @@
             </ul>
           <!-- <li><a href="#contact">Contact Us</a></li> -->
           <? if(isset($_SESSION['firstName'])){
-            echo '<li><a href="login.php">Your Profile</a></li>';
+            echo '<li><a href="userProfile.php">Your Profile</a></li>';
             echo '<li><a href="process/signOut.php">Sign Out</a></li>';
 
           }else{
