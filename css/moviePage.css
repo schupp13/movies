@@ -1,0 +1,22 @@
+body{
+  background-image: url(../../img/moviebg.php);
+  background-color: black;
+  color:lightgrey;
+
+  font-family: 'Cinzel Decorative', cursive;
+}
+
+
+.moviePoster{
+  max-height:450px;
+  margin: 30px;
+  border: 3px solid lightgrey;
+}
+
+.moviePoster:hover{
+  transform: scale(.9);
+}
+
+.movieTitle{
+  font-size: 70px;
+}
