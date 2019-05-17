@@ -1,14 +1,24 @@
 <? include_once 'header.php'; ?>
 
+<<<<<<< HEAD
 <title>MushyBanana Index</title>
+=======
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
   <!--==========================
     Hero Section
   ============================-->
   <section id="hero">
+<<<<<<< HEAD
     <div class="hero-container" style="background: url(img/avengers.jpg) top center; background-size: 100%;">
       <h1>Wach | Review | Repeat</h1>
       <h2>On Mushy Banana</h2>
       <a href="signup.php" class="btn-get-started">Join In</a>
+=======
+    <div class="hero-container" style="background: url(img/hero-bg.jpg) top center;">
+      <h1>Welcome to Regna</h1>
+      <h2>We are team of talanted designers making websites with Bootstrap</h2>
+      <a href="#about" class="btn-get-started">Get Started</a>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
     </div>
   </section><!-- #hero -->
 
@@ -29,25 +39,41 @@
 
             <div class="icon-box wow fadeInUp">
               <div class="icon"><i class="fa fa-shopping-bag"></i></div>
+<<<<<<< HEAD
               <h4 class="title"><a href="">Track</a></h4>
+=======
+              <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
               <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
             </div>
 
             <div class="icon-box wow fadeInUp" data-wow-delay="0.2s">
               <div class="icon"><i class="fa fa-photo"></i></div>
+<<<<<<< HEAD
               <h4 class="title"><a href="">Rate</a></h4>
+=======
+              <h4 class="title"><a href="">Magni Dolores</a></h4>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
               <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
             </div>
 
             <div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
               <div class="icon"><i class="fa fa-bar-chart"></i></div>
+<<<<<<< HEAD
               <h4 class="title"><a href="">Review</a></h4>
+=======
+              <h4 class="title"><a href="">Dolor Sitema</a></h4>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
               <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
             </div>
 
           </div>
 
+<<<<<<< HEAD
           <div class="col-lg-6 background order-lg-2 order-1 wow fadeInRight" style="background: url(img/thor.jpg) center top;background-repeat: no-repeat; background-size: auto 100%;"></div>
+=======
+          <div class="col-lg-6 background order-lg-2 order-1 wow fadeInRight"></div>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
         </div>
 
       </div>
@@ -158,7 +184,11 @@
             <p class="cta-text"> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
+<<<<<<< HEAD
             <a class="cta-btn align-middle" href="signup.php">Sign Up</a>
+=======
+            <a class="cta-btn align-middle" href="signup_login.php">Sign Up</a>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
           </div>
         </div>
 
@@ -172,13 +202,21 @@
       <div class="container wow fadeInUp">
         <div class="section-header">
           <h3 class="section-title">Marvel Cinema</h3>
+<<<<<<< HEAD
           <!-- <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p> -->
+=======
+          <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
         </div>
         <div class="row">
 
           <div class="col-lg-12">
             <ul id="portfolio-flters">
+<<<<<<< HEAD
               <li data-filter=".filter-captain_america, .filter-captain_marvel, .filter-iron_man, .filter-hulk, .filter-thor, .filter-avengers, .filter-guardians_of_the_galaxy, .filter-ant-man, .filter-doctor_strange, .filter-spider-man, .filter-black_panther" class="filter-active">Optimal Viewing Order</li>
+=======
+              <li data-filter=".filter-captain_america, .filter-captain_marvel, .filter-iron_man, .filter-hulk, .filter-thor, .filter-avengers, .filter-guardians_of_the_galaxy, .filter-ant_man, .filter-doctor_strange, .filter-spider_man, .filter-black_panther" class="filter-active">Optimal Viewing Order</li>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
               <li data-filter=".filter-captain_america">Captain America</li>
               <li data-filter=".filter-captain_marvel">Captain Marvel</li>
               <li data-filter=".filter-iron_man">Iron Man</li>
@@ -186,18 +224,246 @@
               <li data-filter=".filter-thor">Thor</li>
               <li data-filter=".filter-avengers">Avengers</li>
               <li data-filter=".filter-guardians_of_the_galaxy">Guardians of the Galaxy</li>
+<<<<<<< HEAD
               <li data-filter=".filter-ant-man">Ant-man</li>
               <li data-filter=".filter-doctor_strange">Doctor Strange</li>
               <li data-filter=".filter-spider-man">Spider-Man</li>
+=======
+              <li data-filter=".filter-ant_man">Ant-man</li>
+              <li data-filter=".filter-doctor_strange">Doctor Strange</li>
+              <li data-filter=".filter-spider_man">Spider-Man</li>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
               <li data-filter=".filter-black_panther">Black Panther</li>
             </ul>
           </div>
         </div>
 
         <div class="row" id="portfolio-wrapper">
+<<<<<<< HEAD
 
           <? include 'process/dashboardProcess.php'; ?>
           <? include 'process/pageBuilderProcess.php'; ?>
+=======
+          <div class="col-lg-3 col-md-6 portfolio-item filter-captain_america">
+            <a href="">
+              <img src="img/portfolio/app1.jpg" alt="">
+              <div class="details">
+                <h4>Captain America</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-captain_marvel">
+            <a href="">
+              <img src="img/portfolio/web2.jpg" alt="">
+              <div class="details">
+                <h4>Captain Marvel</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-iron_man">
+            <a href="">
+              <img src="img/portfolio/app3.jpg" alt="">
+              <div class="details">
+                <h4>Iron Man</h4>
+                <span>Alored dono par</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-iron_man">
+            <a href="">
+              <img src="img/portfolio/card1.jpg" alt="">
+              <div class="details">
+                <h4>Iron Man 2</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-the_incredible_hulk">
+            <a href="">
+              <img src="img/portfolio/card2.jpg" alt="">
+              <div class="details">
+                <h4>The Incredible Hulk</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-thor">
+            <a href="">
+              <img src="img/portfolio/web3.jpg" alt="">
+              <div class="details">
+                <h4>Thor</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-avengers">
+            <a href="">
+              <img src="img/portfolio/card3.jpg" alt="">
+              <div class="details">
+                <h4>The Avengers</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-iron_man">
+            <a href="">
+              <img src="img/portfolio/app2.jpg" alt="">
+              <div class="details">
+                <h4>Iron Man 3</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-thor">
+            <a href="">
+              <img src="img/portfolio/logo1.jpg" alt="">
+              <div class="details">
+                <h4>Thor: THe Dark World</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-logo">
+            <a href="">
+              <img src="img/portfolio/logo3.jpg" alt="">
+              <div class="details">
+                <h4>Captain America: The Winter Soldier</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-guardians_of_the_galaxy">
+            <a href="">
+              <img src="img/portfolio/web1.jpg" alt="">
+              <div class="details">
+                <h4>Guardians of the Galaxy</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-guardians_of_the_galaxy">
+            <a href="">
+              <img src="img/portfolio/logo2.jpg" alt="">
+              <div class="details">
+                <h4>Guardians of the Galaxy Vol 2</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-avengers">
+            <a href="">
+              <img src="img/portfolio/logo2.jpg" alt="">
+              <div class="details">
+                <h4>Avengers: Age of Ultron</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-ant_man">
+            <a href="">
+              <img src="img/portfolio/logo2.jpg" alt="">
+              <div class="details">
+                <h4>Ant Man</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-doctor_strange">
+            <a href="">
+              <img src="img/portfolio/logo2.jpg" alt="">
+              <div class="details">
+                <h4>Doctor Strange</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-captain_america">
+            <a href="">
+              <img src="img/portfolio/logo2.jpg" alt="">
+              <div class="details">
+                <h4>Captain America: Civil War</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-spider_man">
+            <a href="">
+              <img src="img/portfolio/logo2.jpg" alt="">
+              <div class="details">
+                <h4>Spider-Man: Homecoming</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-thor">
+            <a href="">
+              <img src="img/portfolio/logo2.jpg" alt="">
+              <div class="details">
+                <h4>Thor: Ragnarok</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-black_panther">
+            <a href="">
+              <img src="img/portfolio/logo2.jpg" alt="">
+              <div class="details">
+                <h4>Black Panther</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-avengers">
+            <a href="">
+              <img src="img/portfolio/logo2.jpg" alt="">
+              <div class="details">
+                <h4>Avengers: Infinity War</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-ant_man">
+            <a href="">
+              <img src="img/portfolio/logo2.jpg" alt="">
+              <div class="details">
+                <h4>Ant-Man and the Wasp</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+
+          <div class="col-lg-3 col-md-6 portfolio-item filter-avengers">
+            <a href="">
+              <img src="img/portfolio/logo2.jpg" alt="">
+              <div class="details">
+                <h4>Avengers: Endgame</h4>
+                <span>Description</span>
+              </div>
+            </a>
+          </div>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
 
         </div>
 
@@ -210,6 +476,7 @@
     <section id="team">
       <div class="container wow fadeInUp">
         <div class="section-header">
+<<<<<<< HEAD
           <h3 class="section-title">Development Team</h3>
           <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
         </div>
@@ -219,6 +486,17 @@
               <div class="pic"><img src="img/team-1.jpg" alt=""></div>
               <h4>Philip Schultz</h4>
               <span>PHP & Backend Developer</span>
+=======
+          <h3 class="section-title">Team</h3>
+          <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+        </div>
+        <div class="row">
+          <div class="col-lg-3 col-md-6">
+            <div class="member">
+              <div class="pic"><img src="img/team-1.jpg" alt=""></div>
+              <h4>Walter White</h4>
+              <span>Chief Executive Officer</span>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
               <div class="social">
                 <a href=""><i class="fa fa-twitter"></i></a>
                 <a href=""><i class="fa fa-facebook"></i></a>
@@ -228,11 +506,19 @@
             </div>
           </div>
 
+<<<<<<< HEAD
           <div class="col-lg-4 col-md-6">
             <div class="member">
               <div class="pic"><img src="img/team-2.jpg" alt=""></div>
               <h4>Erika Wright</h4>
               <span>CSS & Front End Developer</span>
+=======
+          <div class="col-lg-3 col-md-6">
+            <div class="member">
+              <div class="pic"><img src="img/team-2.jpg" alt=""></div>
+              <h4>Sarah Jhinson</h4>
+              <span>Product Manager</span>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
               <div class="social">
                 <a href=""><i class="fa fa-twitter"></i></a>
                 <a href=""><i class="fa fa-facebook"></i></a>
@@ -242,11 +528,19 @@
             </div>
           </div>
 
+<<<<<<< HEAD
           <div class="col-lg-4 col-md-6">
             <div class="member">
               <div class="pic"><img src="img/team-3.jpg" alt=""></div>
               <h4>Stephen Bryant</h4>
               <span>HTML Page & Form Developer</span>
+=======
+          <div class="col-lg-3 col-md-6">
+            <div class="member">
+              <div class="pic"><img src="img/team-3.jpg" alt=""></div>
+              <h4>William Anderson</h4>
+              <span>CTO</span>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
               <div class="social">
                 <a href=""><i class="fa fa-twitter"></i></a>
                 <a href=""><i class="fa fa-facebook"></i></a>
@@ -256,11 +550,19 @@
             </div>
           </div>
 
+<<<<<<< HEAD
           <!-- <div class="col-lg-3 col-md-6">
             <div class="member">
               <div class="pic"><img src="img/team-4.jpg" alt=""></div>
               <h4>Hustan Van Doren</h4>
               <span>Backend Colaboration Efforts</span>
+=======
+          <div class="col-lg-3 col-md-6">
+            <div class="member">
+              <div class="pic"><img src="img/team-4.jpg" alt=""></div>
+              <h4>Amanda Jepson</h4>
+              <span>Accountant</span>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
               <div class="social">
                 <a href=""><i class="fa fa-twitter"></i></a>
                 <a href=""><i class="fa fa-facebook"></i></a>
@@ -268,7 +570,11 @@
                 <a href=""><i class="fa fa-linkedin"></i></a>
               </div>
             </div>
+<<<<<<< HEAD
           </div> -->
+=======
+          </div>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
         </div>
 
       </div>
@@ -277,18 +583,30 @@
     <!--==========================
       Contact Section
     ============================-->
+<<<<<<< HEAD
     <!-- <section id="contact">
+=======
+    <section id="contact">
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
       <div class="container wow fadeInUp">
         <div class="section-header">
           <h3 class="section-title">Contact</h3>
           <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
         </div>
+<<<<<<< HEAD
       </div> -->
+=======
+      </div>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
 
       <!-- Uncomment below if you wan to use dynamic maps -->
       <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe> -->
 
+<<<<<<< HEAD
       <!-- <div class="container wow fadeInUp mt-5">
+=======
+      <div class="container wow fadeInUp mt-5">
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
         <div class="row justify-content-center">
 
           <div class="col-lg-3 col-md-4">
@@ -349,9 +667,63 @@
         </div>
 
       </div>
+<<<<<<< HEAD
     </section> -->   <!-- #contact -->
 
   </main>
 
 
 <? include_once 'footer.php'; ?>
+=======
+    </section><!-- #contact -->
+
+  </main>
+
+  <!--==========================
+    Footer
+  ============================-->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong>Regna</strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        <!--
+          All the links in the footer should remain intact.
+          You can delete the links only if you purchased the pro version.
+          Licensing information: https://bootstrapmade.com/license/
+          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Regna
+        -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- #footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/waypoints/waypoints.min.js"></script>
+  <script src="lib/counterup/counterup.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+
+</body>
+</html>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29

@@ -1,10 +1,17 @@
+<<<<<<< HEAD
 <?php session_start(); ?>
 
+=======
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
+<<<<<<< HEAD
   <title>MushyBananas header</title>
+=======
+  <title>MushyBananas Index</title>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -43,11 +50,18 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
+<<<<<<< HEAD
         <a href="index.php"><img style="height: 40px;" src="img/logo.png" alt="" title="" /></img></a>
+=======
+        <a href="#hero"><img src="img/logo.png" alt="" title="" /></img></a>
+        <!-- Uncomment below if you prefer to use a text logo -->
+        <!--<h1><a href="#hero">Regna</a></h1>-->
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
       </div>
 
       <nav id="nav-menu-container">
         <ul class="nav-menu">
+<<<<<<< HEAD
           <li class="menu"><a href="index.php">Home</a></li>
           <li class="menu"><a href="reviews.php">Reviews</a></li>
           <li class="menu-has-children"><a href="movies.php">Movies</a>
@@ -118,6 +132,41 @@
         </ul>
 
 
+=======
+          <li class="menu-active"><a href="#hero">Home</a></li>
+          <li><a href="#about">About Us</a></li>
+          <li><a href="#services">Reviews</a></li>
+          <!-- <li><a href="#portfolio">Portfolio</a></li> -->
+          <!-- <li><a href="#team">Team</a></li> -->
+          <li class="menu-has-children"><a href="">Movies</a>
+            <ul>
+              <li><a href="#">Captain America</a></li>
+              <li><a href="#">Captain Marvel</a></li>
+              <li><a href="#">Iron Man</a></li>
+              <li><a href="#">Iron Man 2</a></li>
+              <li><a href="#">The Incredible Hulk</a></li>
+              <li><a href="#">Thor</a></li>
+              <li><a href="#">The Avengers</a></li>
+              <li><a href="#">Iron Man 3</a></li>
+              <li><a href="#">Thor: The Dark World</a></li>
+              <li><a href="#">Captain America: The WInter Soldier</a></li>
+              <li><a href="#">Guardians of the Galaxy</a></li>
+              <li><a href="#">Guardians of the Galaxy Vol 2</a></li>
+              <li><a href="#">Avengers: Age of Ultron</a></li>
+              <li><a href="#">Ant-Man</a></li>
+              <li><a href="#">Doctor Strange</a></li>
+              <li><a href="#">Captain America: Civil War</a></li>
+              <li><a href="#">Spider-man: Homecoming</a></li>
+              <li><a href="#">Thor: Ragnarok</a></li>
+              <li><a href="#">Black Panther</a></li>
+              <li><a href="#">Avengers: Infinity War</a></li>
+              <li><a href="#">Ant-man and the Wasp</a></li>
+              <li><a href="#">Avengers: Endgame</a></li>
+          </li>
+            </ul>
+          <li><a href="#contact">Contact Us</a></li>
+        </ul>
+>>>>>>> 6028a902b8a822b378ed04258ce0a721d8895c29
       </nav><!-- #nav-menu-container -->
     </div>
   </header><!-- #header -->
